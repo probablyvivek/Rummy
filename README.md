@@ -10,16 +10,15 @@ In order to optimize parameters, one should have a balanced approach rather than
 ### Based on the EDA done using Python Profiling. Here are some findings:
 
 > Entry Fee: Most Common Values are: 25 (11.4%), 100 (11.2%), 1000 (11.2%) 10 (10.6%) and 50 (10.6%)
-> 
+
 > Seat : 6 is around 80.4% while 2 is around 19.6%
-> 
+ 
 > Composition: 2 is most common with (36.7%) while 6 is least common (14%), 3 is 16.8%, 4 is 16.4% and 5 is 16%
-> 
+ 
 > Cut %: .15 is most common with 61.7% followed by 0.1 with 24.5%
-> 
-> 
+  
 > Rake: Most common is 1800 with 1.2% followed by 360 which is 1%
-> 
+ 
 > Wager: Most common is 3000 which is 1.2% followed by 6000 which is 1.1%
 
 ### Key Findings after EDA
