@@ -24,31 +24,35 @@ In order to optimize parameters, one should have a balanced approach rather than
 
 ### Key Findings after EDA
 
-1. Average Revenue Generated per Weekday
+1. Average Revenue Generated per Month
+![Month](https://github.com/probablyvivek/Rummy/blob/main/Average%20Revenue%20Generated%20per%20Month.png?raw=true)
+
+Most profitable month is September while least is January.
+
+2. Average Revenue Generated per Weekday
 
 ![Weekday](https://github.com/probablyvivek/Rummy/blob/main/Average%20Revenue%20Generated%20per%20Weekday.png?raw=true)
 
 Most profitable day is Wednesday while the lease profitable day is Friday.
 
-2. Average Revenue Generated per Composition
+3. Average Revenue Generated per Composition
 
 ![Composition](https://github.com/probablyvivek/Rummy/blob/main/Average%20Revenue%20Generated%20per%20Composition.png?raw=true)
 
 In terms of average revenue generated, Composition 3 is the most profitable while Composition 6 is the least profitable.
 
-3. Average Number of User Cash Game Count per composition
+4. Average Number of User Cash Game Count per composition
 
 ![User Cash Game Count](https://github.com/probablyvivek/Rummy/blob/main/Average%20Number%20of%20User%20Cash%20Game%20Count%20per%20Composition.png?raw=true)
 
 In  terms of Users Cash Game Count, Composition 3 and 4 have the highest numbers.
 
-4. Average Number of Users per composition
+5. Average Number of Users per composition
 ![Users](https://github.com/probablyvivek/Rummy/blob/main/Average%20Number%20of%20Users%20per%20Composition.png?raw=true)
 
 In terms of Users, Composition 3 and 4 have the highest numbers.
 
-
-5. Average Revenue Generated per Entry Fee
+6. Average Revenue Generated per Entry Fee
 
 ![Entry Fee](https://github.com/probablyvivek/Rummy/blob/main/Entry%20Fee%20vs%20Revenue.png?raw=true)
 
