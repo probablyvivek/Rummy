@@ -24,6 +24,9 @@ In order to optimize parameters, one should have a balanced approach rather than
 
 ### Key Findings after EDA
 
+[EDA](https://github.com/probablyvivek/Rummy/blob/main/pandas_profiling.html) was done using Pandas Profiling library.
+
+
 1. Average Revenue Generated per Month
 ![Month](https://github.com/probablyvivek/Rummy/blob/main/Average%20Revenue%20Generated%20per%20Month.png?raw=true)
 
